@@ -1,9 +1,9 @@
 # Game-development
 ## Core Modules
-GDC-Core01 - Introduction to Game Development
-GDC-Core02 - Fundamentals of Programming for Games
-GDC-Core03 - Game Design Principles and User Experience
-GDC-Core04 - Narrative Design and Interactive Storytelling
+GDC-Core01 - Introduction to Game Development  
+GDC-Core02 - Fundamentals of Programming for Games  
+GDC-Core03 - Game Design Principles and User Experience  
+GDC-Core04 - Narrative Design and Interactive Storytelling  
 GDC-Core04 - 3D Asset Creation for Games
 GDC-Core05 - 2D Asset Creation for Game
 GDC-Core06 - Game Development with Unity
